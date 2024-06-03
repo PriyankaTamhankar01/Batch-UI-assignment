@@ -1,4 +1,7 @@
 # Batch-UI-assignment
+![Desktop - 3 1](https://github.com/PriyankaTamhankar01/Batch-UI-assignment/assets/90240653/c2e48a42-4510-4a35-af63-7eb04ac5d0e8)
+
+
 
 ## App Landing Page: Finance Bank Money
 
