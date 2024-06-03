@@ -25,7 +25,7 @@ This project is a landing page for a finance-related application. The aim is to 
   - **HTML**: For structuring the content on the web page.
   - **CSS**: For styling the web page.
   - **JavaScript**: For adding interactivity and dynamic behavior to the web page.
-  - **Vercel**: For deployment and hosting.
+  - **Netlify**: For deployment and hosting.
 
 ## Figma Design Reference
 - **Figma Link:** [Figma Link](https://www.figma.com/community/file/1145991068621514311)
